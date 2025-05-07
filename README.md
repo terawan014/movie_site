@@ -23,7 +23,7 @@ A simple website to showcase the movies and TV shows I've watched, along with pe
   - Add more cards to display more films.
   - Basic hover
   - screenshotScroller
-    - Lightbox
+  - Tags
   
 
   - **Things Need To Te Done**
