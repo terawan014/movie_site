@@ -21,6 +21,10 @@ A simple website to showcase the movies and TV shows I've watched, along with pe
 - **5/7:**
   - Add the personal reviews and make it at the desired place.
   - Add more cards to display more films.
+  - Basic hover
+  - screenshotScroller
+    - Lightbox
+  
 
   - **Things Need To Te Done**
     - Responsive Layout
