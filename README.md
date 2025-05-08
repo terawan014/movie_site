@@ -21,6 +21,10 @@ https://terawan014.github.io/movie_site/
 - No backend or JavaScript (fully static site)
 
 ## Progress
+- **2025/5/8：**
+  - - Category filtering (static)
+    - Clickable genre tags link to separate pages
+    
 - **2025/5/7:**
   - Add the personal reviews and make it at the desired place.
   - Add more cards to display more films.
@@ -30,7 +34,7 @@ https://terawan014.github.io/movie_site/
   - Navigation bar
     - Add with another two pages (about&contact)
 
-- **Things Need To Te Done**
+- **Things Need To Be Done**
   - Responsive Layout
   - Interaction Design ✅
     - Navigation Bar ✅
